@@ -12,6 +12,7 @@
     <OutputPath>$(BaseOutputPath)\$(AssemblyName)\</OutputPath>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>..\..\Microsoft.Azure.Kinect.Sensor.snk</AssemblyOriginatorKeyFile>
+    <ProduceReferenceAssembly>false</ProduceReferenceAssembly>
   </PropertyGroup>
   
   <ItemGroup>

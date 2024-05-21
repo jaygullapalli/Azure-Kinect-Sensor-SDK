@@ -10,6 +10,7 @@
     <RunCodeAnalysis>false</RunCodeAnalysis>
     <CodeAnalysisRuleSet>..\..\AzureKinectSensorSDK.ruleset</CodeAnalysisRuleSet>
     <OutputPath>$(BaseOutputPath)\$(AssemblyName)\</OutputPath>
+    <ProduceReferenceAssembly>false</ProduceReferenceAssembly>
   </PropertyGroup>
 
   <ItemGroup>
